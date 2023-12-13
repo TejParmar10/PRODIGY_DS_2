@@ -1,0 +1,4 @@
+The graph I  have created shows the distribution of age by survived status for the passengers on the Titanic. It is a scatter plot, which is a type of graph that shows the relationship between two variables by plotting points on a coordinate plane.
+The x-axis of the graph represents the passengers' ages, and the y-axis represents their survived status, where 0 = no and 1 = yes. The size of each point represents the number of passengers in that age bin.
+The graph shows that there is a clear relationship between age and survival status. Children were the most likely to survive, followed by women and men. The oldest passengers were the least likely to survive.
+This graph is a good example of how exploratory data analysis (EDA) can be used to gain insights into a dataset. By visualizing the data in different ways, we can identify patterns and trends that might not be immediately obvious.
